@@ -38,7 +38,7 @@ function mazevo_events_widget_plugin( $atts, $content = null ) {
     );
     
 
-	$response = wp_remote_post( 'YOU URL HERE', $context);
+	$response = wp_remote_post( 'YOUR MAZEVO URL HERE', $context);
 
 	if ( is_wp_error( $response ) ) {
 	   $error_message = $response->get_error_message();

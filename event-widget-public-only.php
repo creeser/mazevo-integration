@@ -108,7 +108,7 @@ function search($array, $key, $value) {
 	
 	}
 	echo '</ul>';
-	echo '<a href="https://east.mymazevo.com/calendar?code=aDJKNnNlbjFWK1kxVUZXZGlYdDU2c3JUbmdYR1h1T3g2NldVQlFuQnpMNEhBUEo4SisrbkRUNFRpb0xYcEExNzZyV3h2YVF1Rmd6bmVWd0xDamNlR3lWcmlrWlJCWkdXaW80U09PbE8zY0k9" class="button btn" target="_blank">View All Events</a>';
+	echo '<a href="LINK TO MAZEVO SITE" class="button btn" target="_blank">View All Events</a>';
 	 }
  
  
